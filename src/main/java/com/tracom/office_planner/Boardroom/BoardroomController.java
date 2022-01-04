@@ -1,6 +1,7 @@
 package com.tracom.office_planner.Boardroom;
 
-import com.azure.cosmos.implementation.guava25.collect.FluentIterable;
+//Boardroom controller to enable boardroom management
+
 import com.tracom.office_planner.MeetingsLog.PlannerLogger;
 import com.tracom.office_planner.User.User;
 import com.tracom.office_planner.User.UserRepository;
@@ -23,9 +24,9 @@ import java.util.List;
 public class BoardroomController {
 
 
-        private BoardRepository boardRepository;
-        private BoardServiceClass serviceClass;
-        private UserRepository userRepository;
+        private final BoardRepository boardRepository;
+        private final BoardServiceClass serviceClass;
+        private final UserRepository userRepository;
 
     @Autowired
     public BoardroomController(BoardRepository boardRepository, BoardServiceClass serviceClass, UserRepository userRepository) {
@@ -49,9 +50,9 @@ public class BoardroomController {
             Principal principal = request.getUserPrincipal();
             String name = principal.getName();
             User user = userRepository.findUserByName(name);
-            Page<BoardRoom> content = serviceClass.listAll(keyword,page,dir,field, user.getOrganization());
+            Page<BoardRoom> content = serviceClass.pageAll(keyword,page,dir,field, user.getOrganization());
             List<BoardRoom> listBoards = content.getContent();
-            // TODO: 11/16/2021 Filter Boards o the user, also add ant matchers to spring security
+            // TODO: 11/16/2021 Filter Boards to the user, also add ant matchers to spring security
             model.addAttribute("board", listBoards);
             model.addAttribute("keyword",keyword);
             model.addAttribute("currentPage", page);
@@ -108,7 +109,7 @@ public class BoardroomController {
         @RequestMapping("/edit/{board_id}")
         public ModelAndView showEditBoardForm(@PathVariable(name = "board_id") Integer id) {
             ModelAndView mnv = new ModelAndView("editBoardroom");
-            BoardRoom boardRoom = (BoardRoom) boardRepository.getById(id);
+            BoardRoom boardRoom = boardRepository.getById(id);
             mnv.addObject("board", boardRoom);
             return mnv;
         }

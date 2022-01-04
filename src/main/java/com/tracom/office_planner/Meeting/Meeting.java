@@ -1,23 +1,19 @@
 package com.tracom.office_planner.Meeting;
 
+/*Entity to enable scheduling of a meeting */
+
 import com.tracom.office_planner.Boardroom.BoardRoom;
 import com.tracom.office_planner.Organization.Organization;
 import com.tracom.office_planner.RepeatMeetings.RepeatMeetings;
 import com.tracom.office_planner.User.User;
-import lombok.*;
-import org.springframework.format.annotation.DateTimeFormat;
-
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
 import javax.persistence.*;
-import java.io.Serializable;
-import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.List;
-/*import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.time.LocalTime;
-import java.util.List;
-import java.util.Set;*/
 
 
 @Entity
@@ -45,18 +41,12 @@ public class Meeting {
     @JoinColumn(name = "room")
     private BoardRoom boardroom;
     @OneToMany(cascade = CascadeType.ALL, orphanRemoval = true, fetch = FetchType.LAZY, mappedBy = "meeting")
-//    @DateTimeFormat(iso = DateTimeFormat.ISO.DATE)
     private List<RepeatMeetings> repeatMeetings = new ArrayList<>();
-//    @DateTimeFormat(iso = DateTimeFormat.ISO.TIME)
     private LocalTime meetStart;
-//    @DateTimeFormat(iso = DateTimeFormat.ISO.TIME)
     private LocalTime meetEnd;
     @ManyToOne(cascade = CascadeType.PERSIST)
     @JoinColumn(name = "organization")
     private Organization organization;
-
-
-    //Constructor without Id
 
 
     @Override

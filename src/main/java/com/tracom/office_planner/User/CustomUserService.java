@@ -1,5 +1,8 @@
 package com.tracom.office_planner.User;
 
+/* Service class to enable authentication
+ */
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;

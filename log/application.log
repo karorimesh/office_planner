@@ -324,3 +324,148 @@
 [INFO ] 2021-12-15 14:35:32.144 [main] OfficePlannerApplicationTests - No active profile set, falling back to default profiles: default
 [INFO ] 2021-12-15 14:35:33.581 [main] SmsTest - Starting SmsTest using Java 11.0.12 on Mesh with PID 18272 (started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
 [INFO ] 2021-12-15 14:35:33.582 [main] SmsTest - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 12:22:49.276 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 13244 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 12:22:49.348 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 12:23:13.747 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 25.35 seconds (JVM running for 30.796)
+[WARN ] 2021-12-23 12:23:13.814 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 12:23:59.104 [http-nio-8080-exec-10] PlannerLogger - User 10 has failed to logged in
+[INFO ] 2021-12-23 12:36:02.261 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 13244 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 12:36:02.261 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 12:36:04.221 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 2.026 seconds (JVM running for 801.27)
+[WARN ] 2021-12-23 12:36:04.292 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 12:36:06.015 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 13244 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 12:36:06.015 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 12:36:08.602 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 2.646 seconds (JVM running for 805.651)
+[WARN ] 2021-12-23 12:36:08.605 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 12:40:30.641 [http-nio-8080-exec-1] PlannerLogger - User added with id 20 token given is hTvTJXSkoE
+[INFO ] 2021-12-23 12:53:49.637 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 13244 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 12:53:49.638 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 12:53:51.635 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 2.047 seconds (JVM running for 1868.684)
+[WARN ] 2021-12-23 12:53:51.637 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 12:53:53.350 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 13244 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 12:53:53.350 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 12:53:54.980 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 1.66 seconds (JVM running for 1872.029)
+[WARN ] 2021-12-23 12:53:54.982 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 12:54:29.894 [http-nio-8080-exec-10] PlannerLogger - User added with id 0 token given is AzJZNUgjoA
+[INFO ] 2021-12-23 12:56:07.014 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 13244 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 12:56:07.015 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 12:56:08.170 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 1.214 seconds (JVM running for 2005.219)
+[WARN ] 2021-12-23 12:56:08.177 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 12:56:36.238 [http-nio-8080-exec-4] PlannerLogger - User added with id 0 token given is 0IrRJBtwa2
+[INFO ] 2021-12-23 12:56:48.958 [http-nio-8080-exec-9] PlannerLogger - User added with id 0 token given is E5ikt2HMBA
+[WARN ] 2021-12-23 12:57:06.331 [http-nio-8080-exec-7] PlannerLogger - User deleted with id 20 name null by admin Mesh
+[INFO ] 2021-12-23 12:57:17.503 [http-nio-8080-exec-10] PlannerLogger - User added with id 0 token given is RooskiwXxO
+[WARN ] 2021-12-23 12:59:36.224 [http-nio-8080-exec-1] PlannerLogger - User deleted with id 24 name null by admin Mesh
+[INFO ] 2021-12-23 13:07:50.509 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 13244 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 13:07:50.510 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 13:07:51.922 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 1.457 seconds (JVM running for 2708.97)
+[WARN ] 2021-12-23 13:07:51.924 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 13:07:53.758 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 13244 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 13:07:53.759 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 13:07:54.941 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 1.261 seconds (JVM running for 2711.989)
+[WARN ] 2021-12-23 13:07:54.943 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 13:08:16.184 [http-nio-8080-exec-1] PlannerLogger - User added with id 0 token given is K8Mi1RCoXM
+[WARN ] 2021-12-23 13:09:37.111 [http-nio-8080-exec-8] PlannerLogger - User deleted with id 25 name null by admin Mesh
+[INFO ] 2021-12-23 13:09:49.619 [http-nio-8080-exec-4] PlannerLogger - User added with id 0 token given is npKroNWoc2
+[WARN ] 2021-12-23 13:10:22.473 [http-nio-8080-exec-3] PlannerLogger - User deleted with id 26 name null by admin Mesh
+[INFO ] 2021-12-23 13:10:36.923 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 13244 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 13:10:36.923 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 13:10:38.286 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 1.392 seconds (JVM running for 2875.335)
+[WARN ] 2021-12-23 13:10:38.289 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 13:11:01.029 [http-nio-8080-exec-1] PlannerLogger - User added with id 0 token given is NmKp7tqbrM
+[INFO ] 2021-12-23 14:27:22.033 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 13244 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 14:27:22.033 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 14:27:25.952 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 13244 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 14:27:25.952 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 14:27:27.016 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 1.107 seconds (JVM running for 7484.064)
+[WARN ] 2021-12-23 14:27:27.018 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 14:28:08.969 [http-nio-8080-exec-4] PlannerLogger - User added with id 0 token given is 06EiYpScz8
+[INFO ] 2021-12-23 14:32:58.167 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 13244 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 14:32:58.167 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 14:32:59.970 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 1.831 seconds (JVM running for 7817.019)
+[WARN ] 2021-12-23 14:32:59.972 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 14:33:20.749 [http-nio-8080-exec-6] PlannerLogger - User added with id 0 token given is pgXsmplD0P
+[WARN ] 2021-12-23 14:33:41.311 [http-nio-8080-exec-5] PlannerLogger - User deleted with id 29 name null by admin Mesh
+[INFO ] 2021-12-23 14:52:41.308 [http-nio-8080-exec-2] PlannerLogger - User added with id 0 token given is BmuznY3Z2w
+[INFO ] 2021-12-23 14:53:46.287 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 13244 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 14:53:46.288 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 14:53:48.171 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 1.94 seconds (JVM running for 9065.22)
+[WARN ] 2021-12-23 14:53:48.173 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 14:53:49.944 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 13244 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 14:53:49.944 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 14:53:52.969 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 3.054 seconds (JVM running for 9070.018)
+[WARN ] 2021-12-23 14:53:52.971 [restartedMain] PlannerLogger - App has started
+[WARN ] 2021-12-23 14:54:22.494 [http-nio-8080-exec-9] PlannerLogger - User deleted with id 30 name null by admin Mesh
+[INFO ] 2021-12-23 14:55:05.316 [http-nio-8080-exec-8] PlannerLogger - User added with id 0 token given is 0AyUsnf7bs
+[INFO ] 2021-12-23 14:56:04.578 [http-nio-8080-exec-2] PlannerLogger - User added with id 0 token given is FAOriFfJ3f
+[INFO ] 2021-12-23 14:56:56.480 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 13244 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 14:56:56.481 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 14:56:57.936 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 1.495 seconds (JVM running for 9254.984)
+[WARN ] 2021-12-23 14:56:57.938 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 14:57:18.179 [http-nio-8080-exec-9] PlannerLogger - User added with id 0 token given is e4QHXvq1b7
+[INFO ] 2021-12-23 14:57:33.442 [http-nio-8080-exec-2] PlannerLogger - User added with id 0 token given is Jou19AZ4Oj
+[INFO ] 2021-12-23 15:50:59.150 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 13244 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 15:50:59.151 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 15:51:00.583 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 1.512 seconds (JVM running for 12497.631)
+[WARN ] 2021-12-23 15:51:00.585 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 15:53:28.048 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 9456 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 15:53:28.275 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 15:53:39.456 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 13.971 seconds (JVM running for 24.014)
+[WARN ] 2021-12-23 15:53:39.478 [restartedMain] PlannerLogger - App has started
+[WARN ] 2021-12-23 15:56:21.930 [http-nio-8080-exec-10] PlannerLogger - User deleted with id 16 name null by admin Mesh
+[WARN ] 2021-12-23 15:56:24.199 [http-nio-8080-exec-7] PlannerLogger - User deleted with id 15 name null by admin Mesh
+[INFO ] 2021-12-23 16:01:17.250 [pool-2-thread-3] PlannerLogger - Sending meeting notification to User with id 13 and name Rono on meeting with topic Meeting notification 3.0 happening at Block E
+[INFO ] 2021-12-23 16:01:17.250 [pool-2-thread-2] PlannerLogger - Sending meeting notification to User with id 10 and name Mesh on meeting with topic Meeting notification 3.0 happening at Block E
+[INFO ] 2021-12-23 16:01:17.250 [pool-2-thread-1] PlannerLogger - Sending meeting notification to User with id 14 and name Karori on meeting with topic Meeting notification 3.0 happening at Block E
+[INFO ] 2021-12-23 16:03:12.631 [main] OfficePlannerApplicationTests - Starting OfficePlannerApplicationTests using Java 11.0.12 on Mesh with PID 536 (started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 16:03:12.643 [main] OfficePlannerApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 16:03:22.740 [main] OfficePlannerApplicationTests - Started OfficePlannerApplicationTests in 10.483 seconds (JVM running for 13.342)
+[INFO ] 2021-12-23 16:09:19.768 [main] SmsTest - Starting SmsTest using Java 11.0.12 on Mesh with PID 5852 (started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 16:09:19.777 [main] SmsTest - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 16:09:25.363 [main] SmsTest - Started SmsTest in 5.804 seconds (JVM running for 7.698)
+[INFO ] 2021-12-23 16:58:34.097 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 9456 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 16:58:34.099 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 16:58:45.188 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 11.572 seconds (JVM running for 3929.745)
+[WARN ] 2021-12-23 16:58:45.191 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 16:58:46.897 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 9456 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 16:58:46.898 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 16:58:48.847 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 1.982 seconds (JVM running for 3933.405)
+[WARN ] 2021-12-23 16:58:48.849 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 17:01:32.671 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 9456 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 17:01:32.672 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 17:01:34.477 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 1.837 seconds (JVM running for 4099.034)
+[WARN ] 2021-12-23 17:01:34.481 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 17:01:36.224 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 9456 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 17:01:36.224 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 17:01:37.487 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 1.294 seconds (JVM running for 4102.044)
+[WARN ] 2021-12-23 17:01:37.489 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 17:15:34.031 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 9456 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 17:15:34.032 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 17:15:36.475 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 2.508 seconds (JVM running for 4941.032)
+[WARN ] 2021-12-23 17:15:36.486 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 17:15:38.131 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 9456 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 17:15:38.132 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 17:15:41.101 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 2.998 seconds (JVM running for 4945.658)
+[WARN ] 2021-12-23 17:15:41.103 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 17:16:19.515 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 9456 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 17:16:19.515 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 17:16:21.014 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 1.531 seconds (JVM running for 4985.571)
+[WARN ] 2021-12-23 17:16:21.017 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 17:19:12.287 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 9456 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 17:19:12.287 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 17:19:13.254 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 0.998 seconds (JVM running for 5157.812)
+[WARN ] 2021-12-23 17:19:13.257 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 17:19:14.971 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 9456 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 17:19:14.971 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 17:19:16.450 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 1.508 seconds (JVM running for 5161.007)
+[WARN ] 2021-12-23 17:19:16.452 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 17:21:40.154 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 9456 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 17:21:40.154 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 17:21:42.600 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 2.489 seconds (JVM running for 5307.157)
+[WARN ] 2021-12-23 17:21:42.602 [restartedMain] PlannerLogger - App has started
+[INFO ] 2021-12-23 17:22:49.028 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 9456 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 17:22:49.028 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 17:22:52.250 [restartedMain] OfficePlannerApplication - Starting OfficePlannerApplication using Java 11.0.12 on Mesh with PID 9456 (C:\Users\Student1\Dropbox\PC\Documents\office_planner\target\classes started by Student1 in C:\Users\Student1\Dropbox\PC\Documents\office_planner)
+[INFO ] 2021-12-23 17:22:52.251 [restartedMain] OfficePlannerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-23 17:22:53.817 [restartedMain] OfficePlannerApplication - Started OfficePlannerApplication in 1.596 seconds (JVM running for 5378.374)
+[WARN ] 2021-12-23 17:22:53.819 [restartedMain] PlannerLogger - App has started

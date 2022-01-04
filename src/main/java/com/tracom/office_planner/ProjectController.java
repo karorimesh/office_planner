@@ -1,4 +1,7 @@
 package com.tracom.office_planner;
+/*
+Overall project controller
+ */
 
 import com.tracom.office_planner.User.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;

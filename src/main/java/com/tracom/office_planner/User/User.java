@@ -11,6 +11,10 @@ import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+Entity class for a user
+ */
+
 @Entity
 @Table(name = "user")
 //Lombok

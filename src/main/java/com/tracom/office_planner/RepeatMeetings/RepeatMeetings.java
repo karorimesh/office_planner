@@ -1,5 +1,9 @@
 package com.tracom.office_planner.RepeatMeetings;
 
+/* Date for the meeting
+Allows setting of multiple dates
+ */
+
 import com.tracom.office_planner.Meeting.Meeting;
 import lombok.*;
 

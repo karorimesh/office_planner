@@ -1,9 +1,10 @@
 package com.tracom.office_planner.Boardroom;
 
+/* Entity class for the boardroom */
+
 import com.tracom.office_planner.Meeting.Meeting;
 import com.tracom.office_planner.Organization.Organization;
 import lombok.*;
-
 import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
